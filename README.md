@@ -9,3 +9,9 @@ Hello! I am learning Git and GitHub.
 
 ## My Goal
 To learn version control and collaborate on projects.
+
+## My Learning Journey
+
+- Learning Git and GitHub.
+- Practicing branches and commits.
+- Exploring version control.
