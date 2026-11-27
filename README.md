@@ -15,3 +15,9 @@ To learn version control and collaborate on projects.
 - Learning Git and GitHub.
 - Practicing branches and commits.
 - Exploring version control.
+## My Profile
+
+- Name: Vishakha Bopche
+- Role: Computer Engineering Student
+- Interest: Software Development
+- Currently Learning: Git and GitHub
